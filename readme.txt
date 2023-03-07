@@ -1,5 +1,6 @@
 sun`
 earth 
 mars 
-jubiter
+jubite
+milkywayr
 
