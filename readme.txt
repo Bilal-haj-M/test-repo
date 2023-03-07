@@ -1,6 +1,7 @@
 sun`
 earth 
 mars 
-jubite
-milkywayr
+jubiter
+andromida
+>>>>>>> v2.1-alpha
 
